@@ -15,7 +15,7 @@
                         <field name="patient_id"/>
                         
                         <field name="gender"/>
-                        <field name="tel" groups="erpprojet.group_hospital_admin"/>
+                        <field name="tel" groups=""/>
                         <field name="email"/>
                     </group>
                     <group>

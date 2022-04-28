@@ -186,7 +186,7 @@
     <menuitem id="hospital_patient"
               name="Patients"
               parent="hospital_root"
-              groups="erpprojet.group_hospital_admin"
+              groups=""
               sequence='5'/>
 
     <menuitem id="hospital_patient_all"

@@ -1,11 +1,11 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_erpprojet_appointment,erpprojet_appointment,model_erpprojet_appointment,erpprojet.group_hospital_admin,1,1,1,1
-access_erpprojet_doctor,erpprojet_doctor,model_erpprojet_doctor,erpprojet.group_hospital_admin,1,1,1,1
-access_erpprojet_patient,erpprojet_patient,model_erpprojet_patient,erpprojet.group_hospital_admin,1,1,1,1
+access_erpprojet_appointment,erpprojet_appointment,model_erpprojet_appointment,,1,1,1,1
+access_erpprojet_doctor,erpprojet_doctor,model_erpprojet_doctor,,1,1,1,1
+access_erpprojet_patient,erpprojet_patient,model_erpprojet_patient,,1,1,1,1
 
 
-access_appointment_report_wizard,erpprojet_appointment_report_wizard,model_erpprojet_appointment_report_wizard,erpprojet.group_hospital_admin,1,1,1,1
-access_erpprojet_appointment_wizard,erpprojet_appointment_wizard,model_erpprojet_appointment_wizard,erpprojet.group_hospital_admin,1,1,1,1
+access_appointment_report_wizard,erpprojet_appointment_report_wizard,model_erpprojet_appointment_report_wizard,,1,1,1,1
+access_erpprojet_appointment_wizard,erpprojet_appointment_wizard,model_erpprojet_appointment_wizard,,1,1,1,1
 
 access_erpprojet_appointment1,erpprojet_appointment,model_erpprojet_appointment,erpprojet.group_hospital_labman,1,0,0,0
 access_erpprojet_doctor1,erpprojet_doctor,model_erpprojet_doctor,erpprojet.group_hospital_labman,1,0,0,0
